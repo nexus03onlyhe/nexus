@@ -1,6 +1,6 @@
 {
     "name": "nexus",
-    "description": "",
+    "description": "nexus",
     "keywords": ["XRay"],
     "env": {
         "UUID": {
